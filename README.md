@@ -1,6 +1,10 @@
+
 <p>
-  <img src="https://github.com/NicolasBrondin/NicolasBrondin/blob/master/img/portrait.png" alt="Nicolas Brondin-Bernard" />
+  <img src="https://github.com/NicolasBrondin/NicolasBrondin/blob/master/img/portrait.png" alt="Nicolas Brondin-Bernard" height="200" style="margin-right: 20px"/>
   <img src="https://github-readme-stats.vercel.app/api?username=NicolasBrondin&show_icons=true&theme=graywhite" alt="Github Stats" />
+</p>
+<p>
+  <strong>Hello, I'm Nicolas,</strong> Freelance web developer and blogger from <img src="https://image.flaticon.com/icons/svg/197/197560.svg" width="13"/> <b>Tours, France</b>. I recently discovered the english term "wordsmith" <img src="https://cdn-icons-png.flaticon.com/512/2670/2670296.png" width="20" style="vertical-align: bottom;"/>, and I think it describes me quite well.
 </p>
 <h3>Various techs I use</h3>
 <p>
@@ -40,3 +44,5 @@
   <h3>Where to find me</h3>
 <p><a href="https://github.com/NicolasBrondin" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/NicolasBrondin" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/nicolas-brondin" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://blog.nicolas.brondin-bernard.com" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/blog-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
+<h3>Acknowledgments</h3>
+<p>This profile readme is greatly inspired by <a href="https://github.com/thmsgbrt/thmsgbrt/edit/master/README.md">Thomas Guibert</a>'s one !</p>
