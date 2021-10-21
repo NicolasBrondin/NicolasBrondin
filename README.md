@@ -1,5 +1,5 @@
 
-<p>
+<p align="center">
   <img src="https://github.com/NicolasBrondin/NicolasBrondin/blob/master/img/portrait.png" alt="Nicolas Brondin-Bernard" height="200" style="margin-right: 20px"/>
   <img src="https://github-readme-stats.vercel.app/api?username=NicolasBrondin&show_icons=true&theme=graywhite" alt="Github Stats" />
 </p>
